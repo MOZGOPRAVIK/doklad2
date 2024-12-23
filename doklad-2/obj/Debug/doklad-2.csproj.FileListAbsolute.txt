@@ -1,0 +1,7 @@
+C:\Users\boris\OneDrive\Desktop\doklad-2\obj\Debug\doklad-2.csproj.AssemblyReference.cache
+C:\Users\boris\OneDrive\Desktop\doklad-2\obj\Debug\doklad-2.csproj.CoreCompileInputs.cache
+C:\Users\boris\OneDrive\Desktop\doklad-2\bin\Debug\doklad-2.exe.config
+C:\Users\boris\OneDrive\Desktop\doklad-2\bin\Debug\doklad-2.exe
+C:\Users\boris\OneDrive\Desktop\doklad-2\bin\Debug\doklad-2.pdb
+C:\Users\boris\OneDrive\Desktop\doklad-2\obj\Debug\doklad-2.exe
+C:\Users\boris\OneDrive\Desktop\doklad-2\obj\Debug\doklad-2.pdb

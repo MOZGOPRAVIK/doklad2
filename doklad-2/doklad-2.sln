@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "doklad-2", "doklad-2.csproj", "{ECBE1477-2A12-4375-B50D-02FC1F75C342}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECBE1477-2A12-4375-B50D-02FC1F75C342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECBE1477-2A12-4375-B50D-02FC1F75C342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECBE1477-2A12-4375-B50D-02FC1F75C342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECBE1477-2A12-4375-B50D-02FC1F75C342}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63EF90A2-2E82-4B4B-A5CC-EB6F4C18E846}
+	EndGlobalSection
+EndGlobal
